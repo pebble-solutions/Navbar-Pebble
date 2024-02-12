@@ -10,7 +10,7 @@ function App() {
           <img src={PebbleLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Pebble Solutions !</h1>
+      <h1>Pebble Solutions</h1>
     </>
   )
 }
